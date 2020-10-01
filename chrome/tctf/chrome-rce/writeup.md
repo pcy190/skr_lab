@@ -304,6 +304,7 @@ pwndbg> tele 0x555555724930-0x10 10
 
 此时detach大的ArrayBuffer即可触发system，大ArrayBuffer的内容为执行的命令。
 
+[exp](https://github.com/pcy190/skr_lab/blob/master/chrome/tctf/chrome-rce/exp.js)
 ## reference
 - https://fineas.github.io/FeDEX/post/chromium_rce.html
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays
