@@ -308,3 +308,4 @@ pwndbg> tele 0x555555724930-0x10 10
 ## reference
 - https://fineas.github.io/FeDEX/post/chromium_rce.html
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays
+- https://hxp.io/blog/74/0CTF-2020-writeups/#chromium-rce
