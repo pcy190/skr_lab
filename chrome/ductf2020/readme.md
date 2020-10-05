@@ -358,7 +358,7 @@ wasm_func();
 ## murmur
 大致一道V8的题目，分为构造`addrof`, `(withinHeap) arbitraryR/W`,  `(allAddr) arbitraryR/W` 的primitive。 
 其中可以通过`TypedArray`的`backing store`，实现任意地址的`arbitrary R/W`。
-
+(https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html)
 
 
 # reference
